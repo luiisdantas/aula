@@ -8,6 +8,9 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: var (--cor-de-fundo);
+    font-family: var (--font-principal);
+    font-size: 16 px;
+    font-weight: 400;
 }
 
